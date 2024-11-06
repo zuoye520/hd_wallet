@@ -1,0 +1,16 @@
+{
+    "name": "hd-wallet",
+    "version": "1.0.0",
+    "description": "HD Wallet Implementation",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+    },
+    "dependencies": {
+      "bip32": "^4.0.0",
+      "bip39": "^3.1.0",
+      "dotenv": "^16.3.1"
+    },
+    "devDependencies": {
+    }
+  }
